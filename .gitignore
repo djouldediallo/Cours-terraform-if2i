@@ -1,0 +1,4 @@
+.terraform.tfstate
+.terraform.tfstate.backup
+.devops-mamadou.pem
+.terraform-f2i_accessKeys.csv
